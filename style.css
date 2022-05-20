@@ -1,0 +1,103 @@
+.header>h1 {
+    background-color: lightseagreen;
+    height: 70px;
+    width: 100%;
+    margin-top: 0px;
+    padding: 20px;
+    font-size: 50px;
+    font-family: Lato;
+    color: white;
+    text-align: center;
+}
+
+.img1 {
+    border: 15px solid lightseagreen;
+    width: 180px;
+    height: 180px;
+    margin-left: 300px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.img2 {
+    border: 15px dashed lightseagreen;
+    width: 180px;
+    height: 180px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.img3 {
+    border: 15px dotted lightseagreen;
+    width: 180px;
+    height: 180px;
+    margin-left: 30px;
+}
+
+.img4 {
+    margin-top: 50px;
+    border: 15px groove lightseagreen;
+    width: 180px;
+    height: 180px;
+    margin-left: 420px;
+    margin-right: 30px;
+}
+
+.img5 {
+    margin-top: 50px;
+    border: 15px groove lightseagreen;
+    width: 180px;
+    height: 180px;
+    margin-left: 20px;
+}
+
+.img6 {
+    margin-top: 50px;
+    border: 15px double lightseagreen;
+    width: 180px;
+    height: 180px;
+    margin-left: 420px;
+    margin-right: 30px;
+}
+
+.img7 {
+    width: 180px;
+    height: 180px;
+    margin-left: 20px;
+}
+
+.mid {
+    background-color: lightseagreen;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-top: 10px solid green;
+    border-right: 10px solid rgb(255, 0, 98);
+    border-bottom: 10px solid blue;
+    border-left: 10px solid red;
+    text-align: center;
+    width: 70%;
+    height: 290px;
+    margin-left: 15%;
+    margin-top: 40px;
+}
+
+.footer {
+    background-color: lightseagreen;
+    height: 70px;
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+a {
+    color: white;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
